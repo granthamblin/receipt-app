@@ -1,1 +1,1 @@
-# receipt-app
+# A Receiptify
